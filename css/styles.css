@@ -11507,3 +11507,22 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.portfolio-modal .modal-dialog .modal-content .container .row a {
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+}
+
+.portfolio-modal .modal-dialog .modal-content .container .row .link {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.portfolio-modal .modal-dialog .modal-content .container .row .link a {
+  margin-top: 12px;
+  display: flex;
+  width: 237px;
+  text-decoration: none;
+  justify-content: center;
+}
